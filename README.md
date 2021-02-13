@@ -1,4 +1,5 @@
-<img alt="Night Coding" src="https://raw.githubusercontent.com/TheNinza/TheNinza/master/assets/Hand%20Wave.gif" width='40' align="left"/><h1>Hey there! I'm Nikhil</h1>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/TheNinza/TheNinza/master/assets/Hand%20Wave.gif" width='40' align="left"/>
+# &nbsp; Hey there! I'm Nikhil
 
 ## 👨🏻‍💻 &nbsp;About Me
 
